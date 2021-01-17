@@ -8,6 +8,7 @@ public class App {
 		// TODO Auto-generated method stub
 		ICuenta cta = new Cuenta();
 		cta.datos("Junior Oblitas", "19023726382");
+		System.out.println("Una modificacion adicional luego de descargar");
 		
 	}
 
