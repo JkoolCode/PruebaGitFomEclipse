@@ -7,7 +7,7 @@ public class App {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ICuenta cta = new Cuenta();
-		cta.datos("Junior", "19023726382");
+		cta.datos("Junior Oblitas", "19023726382");
 		
 	}
 
